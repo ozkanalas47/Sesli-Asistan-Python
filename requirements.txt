@@ -1,0 +1,11 @@
+SpeechRecognition>=3.10.0
+gTTS>=2.5.3
+pygame>=2.6.0
+requests>=2.32.3
+wikipedia>=1.4.0
+sympy>=1.13.2
+python-dotenv>=1.0.1
+transformers==4.44.2
+PyQt5>=5.15.11
+torch==2.2.0
+accelerate>=0.24.0
