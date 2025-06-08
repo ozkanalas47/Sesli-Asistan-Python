@@ -62,17 +62,7 @@ Müzik çalmak, durdurmak veya tür seçmek için:
 - Klasik müzik aç.
 - Türkçe pop çal.
 
-## 7. Hatırlatıcı
-Hatırlatıcı ayarlamak, silmek veya listelemek için:
-- Hatırlat: Bugün 15:00 toplantı.
-- Bugün 14:00’te bana sınavı hatırlat.
-- Yarın 9:00 doktor randevusu.
-- Hatırlatıcıyı sil: tümünü sil.
-- Hatırlatıcı iptal.
-- Hatırlatıcılarımı listele.
-- Yarın 17:00 için hatırlatıcı kur: Spor salonu.
-
-## 8. Haber Okuma
+## 7. Haber Okuma
 Güncel haberleri almak için:
 - Haber oku.
 - Son haberler neler?
@@ -82,7 +72,7 @@ Güncel haberleri almak için:
 - Dünya haberlerini anlat.
 - Spor haberleri oku.
 
-## 9. Matematiksel Hesaplama
+## 8. Matematiksel Hesaplama
 Basit matematiksel işlemler için:
 - Hesapla 2 artı 2.
 - 3 çarpı 5 kaç eder?
@@ -92,7 +82,7 @@ Basit matematiksel işlemler için:
 - 8 artı 9 eksi 2 kaç eder?
 - Yüzde 20’si 50’nin ne kadar?
 
-## 10. Fıkra Anlatma
+## 9. Fıkra Anlatma
 Eğlenceli fıkralar veya espriler için:
 - Fıkra anlat.
 - Bana bir espri yap.
@@ -102,17 +92,7 @@ Eğlenceli fıkralar veya espriler için:
 - Karadeniz fıkrası anlat.
 - Çocuk fıkrası söyler misin?
 
-## 11. Oyun Modu (Sayı Tahmin)
-Sayı tahmin oyunu oynamak için:
-- Oyun oyna.
-- Sayı tahmin oyunu oynayalım.
-- 50 (tahmin sırasında sayı söylemek için).
-- Evet (tekrar oynamak için).
-- Hayır (oyunu bitirmek için).
-- Başka bir oyun oynayalım.
-- Oyunu başlat.
-
-## 12. Çıkış
+## 10. Çıkış
 Asistanı kapatmak için:
 - Çıkış.
 - Kapat.
@@ -129,12 +109,10 @@ Bu diziyi sırayla test ederek asistanın tüm işlevlerini kontrol edebilirsini
 3. "Hava durumu İstanbul" → İstanbul’un hava durumunu söyler.
 4. "Not al: Yarın markete git." → Not kaydeder.
 5. "Notları göster." → Kayıtlı notları listeler.
-6. "Hatırlat: Bugün 15:00 toplantı." → Hatırlatıcı ayarlar.
-7. "Hesapla 5 artı 3." → Matematiksel hesaplama yapar.
-8. "Fıkra anlat." → Bir fıkra anlatır.
-9. "Oyun oyna." → Sayı tahmin oyununu başlatır.
-10. "Haber oku." → Güncel haberleri okur.
-11. "Çıkış." → Uygulamayı kapatır.
+6. "Hesapla 5 artı 3." → Matematiksel hesaplama yapar.
+7. "Fıkra anlat." → Bir fıkra anlatır.
+8. "Haber oku." → Güncel haberleri okur.
+9. "Çıkış." → Uygulamayı kapatır.
 
 ## Notlar
 - Komutlar doğal dilde verilebilir, ancak net ifadeler kullanmak niyet analizini kolaylaştırır.
